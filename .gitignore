@@ -1,0 +1,8 @@
+*pdf
+.vscode
+.DS_Store
+*png
+*jpg
+*zip
+SemEval2018-Task3-master/*
+cnn-text-classification/*
